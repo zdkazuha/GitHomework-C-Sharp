@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12", "12.csproj", "{3DDC651E-967D-4C1D-A6CC-5049512520C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123", "..\GitHomework-C-Sharp\123\123.csproj", "{AC2F429D-A806-4505-886F-ABC73FE9AE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123123", "..\123123\123123.csproj", "{770A1196-94A2-4D15-90DF-A4F6016A32F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3DDC651E-967D-4C1D-A6CC-5049512520C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DDC651E-967D-4C1D-A6CC-5049512520C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DDC651E-967D-4C1D-A6CC-5049512520C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2F429D-A806-4505-886F-ABC73FE9AE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2F429D-A806-4505-886F-ABC73FE9AE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2F429D-A806-4505-886F-ABC73FE9AE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2F429D-A806-4505-886F-ABC73FE9AE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770A1196-94A2-4D15-90DF-A4F6016A32F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770A1196-94A2-4D15-90DF-A4F6016A32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770A1196-94A2-4D15-90DF-A4F6016A32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770A1196-94A2-4D15-90DF-A4F6016A32F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
